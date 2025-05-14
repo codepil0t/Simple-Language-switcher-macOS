@@ -25,7 +25,7 @@ xcodebuild -project simple-switcher.xcodeproj -configuration Release
 ```
 
 ## Установка
-1. Скопируйте скомпилированное приложение `simple-switcher.app` в папку `/Applications`
+1. Скопируйте скомпилированное приложение (расположение смотри в логах команды xcodebuild) `simple-switcher.app` в папку `/Applications`
 2. Запустите приложение двойным щелчком
 
 ## Настройка разрешений
