@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master.swiftconstvalues",
+    "dependencies" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master.d",
+    "diagnostics" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master.dia",
+    "emit-module-dependencies" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master-emit-module.dia",
+    "swift-dependencies" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/simple-switcher-master.swiftdeps"
+  },
+  "/Users/luke/Desktop/simple-switcher/simple-switcher/simple-switcher/main.swift" : {
+    "index-unit-output-path" : "/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/luke/Desktop/simple-switcher/simple-switcher/build/simple-switcher.build/Release/simple-switcher.build/Objects-normal/arm64/main.o"
+  }
+}

@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "16d6a132948bcbb51838c9a1d327e19a0c2feff8cbd68aab63edf46318e89d92"
+build_start_time: [1747218015, 974799000]
+build_end_time: [1747218018, 667776000]
+inputs:
+  "/Users/luke/Desktop/simple-switcher/simple-switcher/simple-switcher/main.swift": [1747217996, 823653458]

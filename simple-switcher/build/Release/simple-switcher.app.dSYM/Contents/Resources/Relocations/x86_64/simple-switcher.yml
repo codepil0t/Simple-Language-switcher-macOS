@@ -1,0 +1,42 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/luke/Desktop/simple-switcher/simple-switcher/build/Release/simple-switcher.app/Contents/MacOS/simple-switcher'
+relocations:
+  - { offset: 0xDBD3C, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher3appSo13NSApplicationCvp', symObjAddr: 0x11988, symBinAddr: 0x100009400, symSize: 0x0 }
+  - { offset: 0xDBD56, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher8delegateAA11AppDelegateCvp', symObjAddr: 0x11990, symBinAddr: 0x100009408, symSize: 0x0 }
+  - { offset: 0xDBF22, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100001350, symSize: 0xB0 }
+  - { offset: 0xDBF6B, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateCMa', symObjAddr: 0xB0, symBinAddr: 0x100001400, symSize: 0x20 }
+  - { offset: 0xDBFAB, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher16fourCharCodeFromys6UInt32VSSF', symObjAddr: 0xD0, symBinAddr: 0x100001420, symSize: 0x2F0 }
+  - { offset: 0xDC0EC, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateCfETo', symObjAddr: 0xCD0, symBinAddr: 0x100002020, symSize: 0x20 }
+  - { offset: 0xDC11B, size: 0x8, addend: 0x0, symName: ___swift_memcpy8_2, symObjAddr: 0xD90, symBinAddr: 0x1000020E0, symSize: 0x10 }
+  - { offset: 0xDC12F, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0xDA0, symBinAddr: 0x1000020F0, symSize: 0x10 }
+  - { offset: 0xDC143, size: 0x8, addend: 0x0, symName: '_$sSo13EventHotKeyIDVwet', symObjAddr: 0xDB0, symBinAddr: 0x100002100, symSize: 0x20 }
+  - { offset: 0xDC157, size: 0x8, addend: 0x0, symName: '_$sSo13EventHotKeyIDVwst', symObjAddr: 0xDD0, symBinAddr: 0x100002120, symSize: 0x20 }
+  - { offset: 0xDC16B, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xE10, symBinAddr: 0x100002160, symSize: 0x40 }
+  - { offset: 0xDC17F, size: 0x8, addend: 0x0, symName: '_$ss29getContiguousArrayStorageType3fors01_bcD0CyxGmxm_tlFSo17TISInputSourceRefa_Tgm5', symObjAddr: 0xF50, symBinAddr: 0x1000022A0, symSize: 0x50 }
+  - { offset: 0xDC1AD, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSo11CFStringRefaSg_Tg5', symObjAddr: 0xFA0, symBinAddr: 0x1000022F0, symSize: 0xB0 }
+  - { offset: 0xDC1F7, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSo11CFStringRefaSg_Tg5', symObjAddr: 0x1050, symBinAddr: 0x1000023A0, symSize: 0x100 }
+  - { offset: 0xDC23F, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV19_getElementSlowPathyyXlSiFSo17TISInputSourceRefa_Tg5', symObjAddr: 0x1150, symBinAddr: 0x1000024A0, symSize: 0x1F0 }
+  - { offset: 0xDC2B4, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSo17TISInputSourceRefa_Tg5', symObjAddr: 0x1340, symBinAddr: 0x100002690, symSize: 0x20 }
+  - { offset: 0xDC324, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSo17TISInputSourceRefa_Tg5', symObjAddr: 0x1360, symBinAddr: 0x1000026B0, symSize: 0x140 }
+  - { offset: 0xDC5FF, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSgxSgSHsSHRzlWl', symObjAddr: 0x23F0, symBinAddr: 0x100003740, symSize: 0x60 }
+  - { offset: 0xDC613, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstract, symObjAddr: 0x2450, symBinAddr: 0x1000037A0, symSize: 0x40 }
+  - { offset: 0xDC627, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefa14CoreFoundation9_CFObjectSCSHWb', symObjAddr: 0x2540, symBinAddr: 0x100003890, symSize: 0x20 }
+  - { offset: 0xDC63B, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSHSCSQWb', symObjAddr: 0x2560, symBinAddr: 0x1000038B0, symSize: 0x20 }
+  - { offset: 0xDC8CF, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSHSCSH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0xEC0, symBinAddr: 0x100002210, symSize: 0x50 }
+  - { offset: 0xDC957, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSo11CFStringRefaSg_AETgm5Tf4g_n', symObjAddr: 0x14A0, symBinAddr: 0x1000027F0, symSize: 0xD0 }
+  - { offset: 0xDCCA6, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVF', symObjAddr: 0x3C0, symBinAddr: 0x100001710, symSize: 0x250 }
+  - { offset: 0xDCE33, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFTo', symObjAddr: 0x610, symBinAddr: 0x100001960, symSize: 0x80 }
+  - { offset: 0xDCE5B, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC4quityyFTo', symObjAddr: 0x690, symBinAddr: 0x1000019E0, symSize: 0x80 }
+  - { offset: 0xDCED7, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC14registerHotKeyyyF', symObjAddr: 0x710, symBinAddr: 0x100001A60, symSize: 0x330 }
+  - { offset: 0xDD13D, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC14registerHotKeyyyFs5Int32Vs13OpaquePointerVSg_AISvSgtcfU_', symObjAddr: 0xA40, symBinAddr: 0x100001D90, symSize: 0x160 }
+  - { offset: 0xDD246, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC14registerHotKeyyyFs5Int32Vs13OpaquePointerVSg_AISvSgtcfU_To', symObjAddr: 0xBA0, symBinAddr: 0x100001EF0, symSize: 0x10 }
+  - { offset: 0xDD26D, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateCfD', symObjAddr: 0xBB0, symBinAddr: 0x100001F00, symSize: 0x80 }
+  - { offset: 0xDD29E, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateCfDTo', symObjAddr: 0xC30, symBinAddr: 0x100001F80, symSize: 0xA0 }
+  - { offset: 0xDD2DF, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateCACycfcTo', symObjAddr: 0xCF0, symBinAddr: 0x100002040, symSize: 0xA0 }
+  - { offset: 0xDD316, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSHSCSH9hashValueSivgTW', symObjAddr: 0xE50, symBinAddr: 0x1000021A0, symSize: 0x30 }
+  - { offset: 0xDD332, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSHSCSH4hash4intoys6HasherVz_tFTW', symObjAddr: 0xE80, symBinAddr: 0x1000021D0, symSize: 0x40 }
+  - { offset: 0xDD355, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaSQSCSQ2eeoiySbx_xtFZTW', symObjAddr: 0xF10, symBinAddr: 0x100002260, symSize: 0x40 }
+  - { offset: 0xDD433, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC26printAvailableInputSourcesyyFTf4d_n', symObjAddr: 0x1570, symBinAddr: 0x1000028C0, symSize: 0x3D0 }
+  - { offset: 0xDD893, size: 0x8, addend: 0x0, symName: '_$s15simple_switcher11AppDelegateC19switchInputLanguageyyFTf4d_n', symObjAddr: 0x1940, symBinAddr: 0x100002C90, symSize: 0xAB0 }
+...
